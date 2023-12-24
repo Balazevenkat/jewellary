@@ -1,3 +1,16 @@
+.ss{
+    font-size: larage;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+    
+}
+.tt{
+font-size: larage;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+}
 
 
 @media (min-width:680px){
