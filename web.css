@@ -1,23 +1,64 @@
+
+.po{
+    wdith: 200px;
+     height:200;
+
+}
+
+.ok{
+    background-color: rgb(154, 152, 149);
+    color: black;
+    margin-top: 1%;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 80px;
+    size: 0cqmax;
+    height: 40px;
+    width: 50%;
+    text-size-adjust: 70px;
+    text-align: center;
+}
+.ADDERS{
+    background-color: rgb(154, 152, 149);
+        text-align: center;
+        color: black;
+        margin-top: 1%;
+        border: none;
+        height: 36px;
+        width: 170px;
+        border-radius: 80px;
+        font-size: 15px;
+        font-weight: bold;
+}
+@media(min-width:680px){
+
+
 .ss{
-    font-size: larage;
-    display: block;
+    font-size:large;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 30px;
     text-align: justify;
-    
 }
 .tt{
-font-size: larage;
+    width: 100%;
     display: block;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 30px;
     text-align: justify;
+    font-size: large;
+    
 }
-
-
-@media (min-width:680px){
-    .po{
-        width: 100%;
-        display: block;
-    margin-bottom: 30px;
-    text-align: justify;
-    }
+.gv{
+    display: block;
+    width: 300px;
+    height: 400px;
+    float: left;
+    object-fit: cover;
+}
+.la {
+    float: left;
+}
 }
