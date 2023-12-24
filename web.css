@@ -1,7 +1,7 @@
 
 .po{
-    wdith: 200px;
-     height:200;
+    width: 200px;
+     height:200px;
 
 }
 
@@ -15,7 +15,7 @@
     border-radius: 80px;
     size: 0cqmax;
     height: 40px;
-    width: 50%;
+    width: 170px;
     text-size-adjust: 70px;
     text-align: center;
 }
@@ -31,7 +31,7 @@
         font-size: 15px;
         font-weight: bold;
 }
-@media(min-width:680px){
+@media (max-width:680px) and (min-width:900px) {
 
 
 .ss{
@@ -39,7 +39,7 @@
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 30px;
-    text-align: justify;
+    text-align: center;
 }
 .tt{
     width: 100%;
@@ -47,18 +47,30 @@
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 30px;
-    text-align: justify;
+    text-align: center;
     font-size: large;
     
 }
 .gv{
+    margin-left: 1%;
     display: block;
     width: 300px;
     height: 400px;
     float: left;
     object-fit: cover;
 }
+.vg{
+    margin-right: 1%;
+    margin-top: 1%;
+    display: block;
+    width: 300px;
+    height: 400px;
+    float: right;
+    object-fit: cover;
+}
 .la {
-    float: left;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
 }
 }
