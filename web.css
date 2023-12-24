@@ -1,3 +1,16 @@
+.ss{
+    font-size:5px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.tt{
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+    font: size 3px;
+    
+}
 .po{
 wdith:100%;
 }
