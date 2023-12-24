@@ -1,1 +1,5 @@
-
+@media (min-width:680px){
+    .po{
+        width: 100%;
+    }
+}
